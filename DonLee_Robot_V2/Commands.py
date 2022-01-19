@@ -1,8 +1,8 @@
-# (c) [Muhammed] @PR0FESS0R-99
-# (s) @Mo_Tech_YT , @Mo_Tech_Group, @MT_Botz
+# (c) [Muhammed] @YOUR_NARUTO_1
+# (s) @new_movies_group_2021 , @new_all_movies_club, @NETFLIXINDIA2022
 # Copyright permission under MIT License
-# All rights reserved by PR0FESS0R-99
-# License -> https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/Professor-99/LICENSE
+# All rights reserved by YOUR_NARUTO_1
+# License -> https://github.com/NORUTO-SUPPORT-MAD-YT/DonLee-Robot-V2
 
 import random
 from pyrogram import filters, Client as DonLee_Robot_V2
@@ -14,7 +14,7 @@ db = Database()
 @DonLee_Robot_V2.on_message(filters.command(["start", "alive"]) & filters.private)
 async def start(bot: DonLee_Robot_V2, msg: Import.Msg):
     START_BUTTON = [[  
-          Import.Button("➕ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖢𝗁𝖺𝗍𝗌 ➕", url=f"http://t.me/{Config.BOT_USERNAME}?startgroup=true")
+          Import.Button("💠 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖢𝗁𝖺𝗍𝗌 💠", url=f"http://t.me/{Config.BOT_USERNAME}?startgroup=true")
           ],[
           Import.Button("⚠️ 𝖧𝖾𝗅𝗉", callback_data="help"),
           Import.Button("𝖠𝖻𝗈𝗎𝗍 🤠", callback_data="about")
@@ -67,7 +67,7 @@ async def start(bot: DonLee_Robot_V2, msg: Import.Msg):
         return
 
     button = [[
-     Import.Button('➕ Add Me To Your Groups ➕', url='http://t.me/donlee_robot?startgroup=true')
+     Import.Button('💠 Add Me To Your Groups 💠', url='http://t.me/donlee_robot?startgroup=true')
     ]]
     await msg.reply_photo(
     photo=random.choice(Config.PHOTO),
@@ -98,7 +98,7 @@ async def help(bot: DonLee_Robot_V2, msg: Import.Msg):
           Import.Button("𝖶𝖾𝗅𝖼𝗈𝗆𝖾", callback_data="welcome")
           ],[
           Import.Button("🏠𝖧𝗈𝗆𝖾", callback_data="home"),
-          Import.Button("𝖲𝗍𝖺𝗍𝗎𝗌", callback_data="status"),
+          Import.Button("🔰𝖲𝗍𝖺𝗍𝗌", callback_data="status"),
           Import.Button("𝖠𝖻𝗈𝗎𝗍🤠", callback_data="about")
           ]]
         await bot.send_photo(
@@ -111,11 +111,11 @@ async def help(bot: DonLee_Robot_V2, msg: Import.Msg):
         )
 
 
-
+https://youtube.com/channel/UCEK86p-F18gR-zd9LwLH4Gw
 @DonLee_Robot_V2.on_message(filters.command(["about"]) & filters.private, group=1)
 async def about(bot: DonLee_Robot_V2, msg: Import.Msg):
         button = [[
-          Import.Button("👨‍💻𝖣𝖾𝗉𝗅𝗈𝗒", url='https://www.youtube.com/watch?v=NrbMc93aCzA'),
+          Import.Button("👨‍💻𝖣𝖾𝗉𝗅𝗈𝗒", url='https://youtube.com/channel/UCEK86p-F18gR-zd9LwLH4Gw'),
           Import.Button("𝖲𝗈𝗎𝗋𝖼𝖾📦", callback_data="source")
           ],[
           Import.Button("⚠️𝖧𝖾𝗅𝗉", callback_data="help"),
@@ -135,14 +135,14 @@ async def about(bot: DonLee_Robot_V2, msg: Import.Msg):
 @DonLee_Robot_V2.on_message(filters.command(["sub", "subscribe"]) & filters.private, group=1)
 async def sub(bot: DonLee_Robot_V2, msg: Import.Msg):
         button = [[     
-          Import.Button("🖥️𝖵𝗂𝖽𝖾𝗈", url="https://www.youtube.com/watch?v=NrbMc93aCzA"),
-          Import.Button("𝖲𝗎𝗉𝗉𝗈𝗋𝗍🤝", url="https://www.youtube.com/watch?v=NrbMc93aCzA")
+          Import.Button("🖥️𝖵𝗂𝖽𝖾𝗈", url="https://youtube.com/channel/UCEK86p-F18gR-zd9LwLH4Gw"),
+          Import.Button("𝖲𝗎𝗉𝗉𝗈𝗋𝗍🤝", url="https://youtube.com/channel/UCEK86p-F18gR-zd9LwLH4Gw")
           ],[
-          Import.Button("📢𝖴𝗉𝖽𝖺𝗍𝖾𝗌", url="https://www.youtube.com/watch?v=NrbMc93aCzA"),
-          Import.Button("𝖸𝗈𝗎𝖳𝗎𝖻𝖾💞", url="https://www.youtube.com/watch?v=NrbMc93aCzA")
+          Import.Button("📢𝖴𝗉𝖽𝖺𝗍𝖾𝗌", url="https://t.me/new_all_movies_club"),
+          Import.Button("𝙶𝚁𝚄𝙾𝙿", url="https://t.me/new_movies_group_2021")
           ],[
-          Import.Button("📦𝖦𝗂𝗍𝗁𝗎𝖻", url="http://github.com/PR0FESS0R_99"),
-          Import.Button("𝖨𝗇𝗌𝗍𝖺😁", url="https://www.instagram.com/mrk_yt_")
+          Import.Button("📦𝖦𝗂𝗍𝗁𝗎𝖻", url="https://github.com/NORUTO-SUPPORT-MAD-YT/DonLee-Robot-V2"),
+          Import.Button("𝖨𝗇𝗌𝗍𝖺😁", url="https://www.instagram.com/athif_kollayil_")
           ],[
           Import.Button("𝖢𝗅𝗈𝗌𝖾🗑️", callback_data="close")
           ]]                     
@@ -158,7 +158,7 @@ async def sub(bot: DonLee_Robot_V2, msg: Import.Msg):
 @DonLee_Robot_V2.on_message(filters.private & filters.command("report"))
 async def admin(bot, msg):
     button = [[  
-       Import.Button("𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾➡️", url="t.me/PR0FESS0R_99")
+       Import.Button("𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾➡️", url="https://t.me/YOUR_NARUTO_1")
        ]]
     await msg.reply_text(
         text="𝖢𝗈𝗇𝗍𝖾𝖼𝗍 𝖡𝗎𝗍𝗍𝗈𝗇 𝖡𝖾𝗅𝗅𝗈𝗐",
