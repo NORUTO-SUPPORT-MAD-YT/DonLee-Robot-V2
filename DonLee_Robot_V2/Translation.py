@@ -27,12 +27,12 @@ class Text(object):
 """
     ABOUT_TEXT = """
 📃 𝖡𝗈𝗍 : <a href="t.me/{}">𝖣𝗈𝗇𝖫𝖾𝖾 𝖱𝗈𝖻𝗈𝗍 V2</a>
-🧒 𝖣𝖾𝗏 : <a href="t.me/Mrk_yt">𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽</a>
+🧒 𝖣𝖾𝗏 : <a href="https://t.me/YOUR_NARUTO_1">𝙽𝙰𝚁𝚄𝚃𝙾</a>
 🧒 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href="tg://user?id={}">{}</a>
 🗣️ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : <a href="https://docs.pyrogram.org">𝖯𝗒𝗍𝗁𝗈𝗇3</a>
 📚 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : <a href="https://docs.pyrogram.org">𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖠𝗌𝗒𝗇𝖼𝗂𝗈 1.13.0</a>
 🗒️ 𝖵𝖾𝗋𝗌𝗂𝗈𝗇 : <a href="t.me/{}">5.0.0 [𝖡𝖾𝗍𝖺]</a>
-📖 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝖽𝖾 : <a href="https://youtu.be/NrbMc93aCzA">𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a>
+📖 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝖽𝖾 : <a href="https://youtube.com/channel/UCEK86p-F18gR-zd9LwLH4Gw">𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a>
 """
     SUB_TEXT = """
 𝖧𝖾𝗅𝗅𝗈 𝖿𝗋𝗂𝖾𝗇𝖽𝗌,
@@ -41,8 +41,8 @@ class Text(object):
 𝖳𝗁𝖾 𝗋𝖾𝗉𝗈 𝗏𝗂𝖽𝖾𝗈 𝗁𝖺𝗌 𝖻𝖾𝖾𝗇 𝖺𝖽𝖽𝖾𝖽 𝗍𝗈 𝗍𝗁𝖾 𝖽𝖾𝗌𝖼𝗋𝗂𝗉𝗍𝗂𝗈𝗇 𝖻𝗈𝗑
 𝖦𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝗉𝗂𝖼𝗄 𝗂𝗍 𝗎𝗉
 
-📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="t.me/Mo_Tech_Group">𝖬𝗈 𝖳𝖾𝖼𝗁 𝖦𝗋𝗈𝗎𝗉</a>
-🎗️ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/Mo_Tech_YT">𝖬𝗈𝖳𝖾𝖼𝗁 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a>
+📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="https://t.me/new_all_movies_club">𝖬𝗈 𝖳𝖾𝖼𝗁 𝖦𝗋𝗈𝗎𝗉</a>
+🎗️ 𝙼𝚘𝚟ｪ𝚎 𝖦𝗋𝗈𝗎𝗉 : <a href="https://t.me/new_movies_group_2021">𝖬𝗈𝖳𝖾𝖼𝗁 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a>
 ➡️ 𝖵𝗂𝖽𝖾𝗈 𝖫𝗂𝗇𝗄 : <a href="https://youtu.be/NrbMc93aCzA">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
 """
     FORCE_SUB_TEXT = """
@@ -70,7 +70,7 @@ class Text(object):
 
 <𝖻><𝗎>𝖠𝖽𝖽 𝖢𝖬𝖣</𝖻></𝗎>
 • <code>/addchannel </code><b>𝖼𝗁𝖺𝗍_𝗂𝖽</b>
-• <code>/addchannel </code><b>@𝖬𝗈_𝖳𝖾𝖼𝗁_𝖸𝖳\𝗇</b>
+• <code>/addchannel </code><b>@YOUR_NARUTO_1\𝗇</b>
 - 𝖳𝗈 𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝖠 𝖦𝗋𝗈𝗎𝗉 𝖶𝗂𝗍𝗁 𝖠 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 (𝖡𝗈𝗍 𝖲𝗁𝗈𝗎𝗅𝖽 𝖡𝖾 𝖠𝖽𝗆𝗂𝗇 𝖶𝗂𝗍𝗁 𝖥𝗎𝗅𝗅 𝖯𝗋𝖾𝗏𝗂𝗅𝖺𝗀𝖾𝗌 𝖨𝗇 𝖡𝗈𝗍𝗁 𝖦𝗋𝗈𝗎𝗉 𝖠𝗇𝖽 𝖢𝗁𝖺𝗇𝗇𝖾𝗅)
 
 <𝖻><𝗎>𝖣𝖾𝗅𝖾𝗍𝖾𝖽 𝖢𝖬𝖣</𝖻></𝗎>
@@ -237,13 +237,13 @@ class Text(object):
 𝖳𝗁𝖾 𝗋𝖾𝗉𝗈 𝗏𝗂𝖽𝖾𝗈 𝗁𝖺𝗌 𝖻𝖾𝖾𝗇 𝖺𝖽𝖽𝖾𝖽 𝗍𝗈 𝗍𝗁𝖾 𝖽𝖾𝗌𝖼𝗋𝗂𝗉𝗍𝗂𝗈𝗇 𝖻𝗈𝗑
 𝖦𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝗉𝗂𝖼𝗄 𝗂𝗍 𝗎𝗉
 
-📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="t.me/Mo_Tech_Group">𝖬𝗈 𝖳𝖾𝖼𝗁 𝖦𝗋𝗈𝗎𝗉</a>
-🎗️ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/Mo_Tech_YT">𝖬𝗈𝖳𝖾𝖼𝗁 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a>
+📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="https://t.me/new_all_movies_club">𝙽𝙰𝚁𝚄𝚃𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</a>
+🎗️ 𝙼𝙾𝚅𝙸𝙴 𝖦𝗋𝗈𝗎𝗉 : <a href="https://t.me/new_movies_group_2021">𝙽𝙰𝚁𝚄𝚃𝙾 𝙶𝚁𝚄𝙾𝙿</a>
 ➡️ 𝖵𝗂𝖽𝖾𝗈 𝖫𝗂𝗇𝗄 : <a href="https://youtu.be/NrbMc93aCzA">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
 """
     CREDITS_TEXT = """
-• 𝖣𝖤𝖵 : <a href="t.me/PR0FESS0R_99">𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽</a>
-• 𝖢𝖮 𝖤𝖣𝖨𝖳𝖮𝖱 : <a href="https://github.com/Xrsirx5">𝖷𝗋𝗌𝗂𝗋𝗑5</a>
+• 𝖣𝖤𝖵 : <a href="https://t.me/YOUR_NARUTO_1">𝙽𝙰𝚁𝚄𝚃𝙾</a>
+• 𝖢𝖮 𝖤𝖣𝖨𝖳𝖮𝖱 : <a href="https://github.com/NORUTO-SUPPORT-MAD-YT/DonLee-Robot-V2">𝙽𝙰𝚁𝚄𝚃𝙾</a>
 
 𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽, 𝗁𝗈𝗐 𝗆𝖺𝗇𝗒 𝖼𝗈𝖽𝖾𝗌 𝗁𝖺𝗏𝖾 𝖨 𝗎𝗌𝖾𝖽? 𝖳𝗁𝖾𝗂𝗋 𝗇𝖺𝗆𝖾𝗌 𝖺𝗋𝖾 𝖻𝖾𝗅𝗅𝗈𝗐 [𝖢𝗋𝖾𝖽𝗂𝗍]
 
