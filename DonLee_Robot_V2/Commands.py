@@ -111,7 +111,7 @@ async def help(bot: DonLee_Robot_V2, msg: Import.Msg):
         )
 
 
-https://youtube.com/channel/UCEK86p-F18gR-zd9LwLH4Gw
+
 @DonLee_Robot_V2.on_message(filters.command(["about"]) & filters.private, group=1)
 async def about(bot: DonLee_Robot_V2, msg: Import.Msg):
         button = [[
