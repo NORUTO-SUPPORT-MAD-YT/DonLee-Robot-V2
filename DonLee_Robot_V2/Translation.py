@@ -27,7 +27,7 @@ class Text(object):
 """
     ABOUT_TEXT = """
 📃 𝖡𝗈𝗍 : <a href="t.me/{}">𝖣𝗈𝗇𝖫𝖾𝖾 𝖱𝗈𝖻𝗈𝗍 V2</a>
-🧒 𝖣𝖾𝗏 : <a href="https://t.me/YOUR_NARUTO_1">𝙽𝙰𝚁𝚄𝚃𝙾</a>
+🧒 𝖣𝖾𝗏 : <a href="https://t.me/HAZARD_77">𝚂𝙷𝙰𝙽𝙸𝙳</a>
 🧒 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href="tg://user?id={}">{}</a>
 🗣️ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : <a href="https://docs.pyrogram.org">𝖯𝗒𝗍𝗁𝗈𝗇3</a>
 📚 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : <a href="https://docs.pyrogram.org">𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖠𝗌𝗒𝗇𝖼𝗂𝗈 1.13.0</a>
