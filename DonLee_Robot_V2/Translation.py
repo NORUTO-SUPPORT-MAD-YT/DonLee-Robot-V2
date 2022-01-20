@@ -242,12 +242,12 @@ class Text(object):
 ➡️ 𝖵𝗂𝖽𝖾𝗈 𝖫𝗂𝗇𝗄 : <a href="https://youtu.be/NrbMc93aCzA">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
 """
     CREDITS_TEXT = """
-• 𝖣𝖤𝖵 : <a href="https://t.me/YOUR_NARUTO_1">𝙽𝙰𝚁𝚄𝚃𝙾</a>
-• 𝖢𝖮 𝖤𝖣𝖨𝖳𝖮𝖱 : <a href="https://github.com/NORUTO-SUPPORT-MAD-YT/DonLee-Robot-V2">𝙽𝙰𝚁𝚄𝚃𝙾</a>
+• 𝖣𝖤𝖵 : <a href="https://t.me/HAZARD_77">𝚂𝙷𝙰𝙽𝙸𝙳</a>
+• 𝙴𝙳𝙸𝚃𝙸𝙽𝙶 : <a href="https://t.me/YOUR_NARUTO_1">𝙽𝙰𝚁𝚄𝚃𝙾</a>
 
 𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽, 𝗁𝗈𝗐 𝗆𝖺𝗇𝗒 𝖼𝗈𝖽𝖾𝗌 𝗁𝖺𝗏𝖾 𝖨 𝗎𝗌𝖾𝖽? 𝖳𝗁𝖾𝗂𝗋 𝗇𝖺𝗆𝖾𝗌 𝖺𝗋𝖾 𝖻𝖾𝗅𝗅𝗈𝗐 [𝖢𝗋𝖾𝖽𝗂𝗍]
 
-<a href="https://github.com/TroJanzHEX">𝖳𝗋𝗈𝖩𝖺𝗇𝗓𝖧𝖤𝖷</a> || <a href="https://github.com/CrazyBotsz">𝖢𝗋𝖺𝗓𝗒𝖡𝗈𝗍𝗌𝗓</a> || <a href="https://github.com/Bughunter">𝖡𝗎𝗀𝗁𝗎𝗇𝗍𝖾𝗋</a> || <a href="https://github.com/PR0FESS0R-99">𝖯𝗋𝗈𝖿𝖾𝗌𝗌𝗈𝗋-99</a> || <a href="https://github.com/EvamariaTG">𝖤𝗏𝖺𝗆𝖺𝗋𝗂𝖺𝖳𝖦</a> || <a href="https://github.com/SpEcHiDe">𝖲𝗉𝖤𝖼𝖧𝗂𝖣𝖾</a> || <a href="https://github.com/FayasNoushad">𝖥𝖺𝗒𝖺𝗌𝖭𝗈𝗎𝗌𝗁𝖺𝖽</a>
+<a href="https://github.com/NORUTO-SUPPORT-MAD-YT/DonLee-Robot-V2">𝙽𝙰𝚁𝚄𝚃𝙾</a>
 """
     REPORT_TEXT = """
 𝖧𝖾𝗅𝗉: <b><u>𝖱𝖾𝗉𝗈𝗋𝗍</u></b>
